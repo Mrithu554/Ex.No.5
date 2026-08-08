@@ -16,6 +16,9 @@ To design an **AI-Based Smart Traffic Management System** by dividing the engine
 
 Traffic congestion is a major problem in cities. Traditional traffic signals use fixed timings and cannot automatically respond to changing traffic conditions.
 
+ <img width="710" height="470" alt="Jbi7S4mp4uxl--L4Z0PSBx0GQt4xHXsN7W6Q0H7u9zaHssyLogOgG9qRueF9dnJWLFHMObrDIH7LHU9Bo6p0L6PSL6n-miGdUBSk-srsG99LfFhjSLc21kbv0BWqie_2NPJSyxIP11-ZfxGpYbJV2TLHXr3XdZ_JvJ_zhnQsT_CVFAYtg-AWvPWTfhuCPfK0" src="https://github.com/user-attachments/assets/d0ea4e98-a6f4-43f9-886a-ae58ffb951cf" />
+
+
 An **AI-Based Smart Traffic Management System** can monitor traffic density and dynamically change traffic signal timings to reduce waiting time and congestion.
 
 ---
